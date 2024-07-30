@@ -17,6 +17,8 @@ The target variable is the credit score, classified into three categories:
 * Standard
 * Poor
 
+You can download the dataset from Kaggle using this [link](https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data).
+
 ## Project Workflow
 1. Data Preprocessing:
    - Handle missing values.
